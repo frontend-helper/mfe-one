@@ -3,7 +3,7 @@ name: deploy-mfe-one
 on:
   push:
     branches:
-      - main
+      - master
 
 defaults:
   run:
